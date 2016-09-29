@@ -1,3 +1,11 @@
+/*
+ * Author: Phoelyn April Lopez
+ * Email: lopezphoelynapril@gmail.com
+ * Description: A Mini payroll system made in c++ and a project for my prefinal exam
+ * Date Created: 9/28/2016
+ *
+ */
+
 #include <iostream>
 #include <iomanip>
 #include <stdlib.h>
